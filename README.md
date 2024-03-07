@@ -48,7 +48,7 @@ Feel free to customize the application to fit your needs. You can modify the sty
 Contributions are welcome! If you find a bug or have a suggestion, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [MIT][LICENSE] License.
+This project is licensed under the [MIT](LICENSE) License.
 
 ---
 
